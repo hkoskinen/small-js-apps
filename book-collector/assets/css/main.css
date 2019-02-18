@@ -1,0 +1,25 @@
+/* probably not the best idea, but works for now! */
+.max {
+  max-width: 960px;
+  padding: 2rem;
+  margin: 0 auto;
+}
+.full {
+  width: 100%;
+}
+.form-item {
+  margin-bottom: 1.4rem;
+}
+.form-wrapper {
+  margin-bottom: 3rem;
+}
+.delete-book {
+  text-transform: none;
+  color: lightcoral;
+}
+.stretch {
+  width: 100%;
+}
+.center {
+  text-align: center;
+}
