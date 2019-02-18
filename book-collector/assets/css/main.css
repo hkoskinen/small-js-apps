@@ -23,3 +23,10 @@
 .center {
   text-align: center;
 }
+.error-message {
+  display: none;
+  color: darkred;
+  background: lightcoral;
+  padding: 1rem;
+  border-radius: 0.4rem;
+}
